@@ -1,1 +1,2 @@
-# norcal_landscape_treatment
+# norcal_landscape_treatment_sample
+This is a sample of the code I wrote to compile geospatial data on landscape treatment activites across Northern California. I imported, cleaned, and concatenated the data before organizing it and eliminating redundancies. The final output is a neatly structured geospatial database of treatments from different sources that can be exported to shapefile and csv, among other file formats. 
